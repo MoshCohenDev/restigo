@@ -1,0 +1,14 @@
+.list_container {
+	justify-content: space-evenly;
+}
+.draft {
+	display: grid;
+	border: 2px solid;
+	text-align: center;
+	border-radius: 2rem;
+	border: 2px solid;
+	padding: 2rem;
+}
+.draft_none {
+	display: none;
+}

@@ -1,0 +1,10 @@
+.manage_container {
+	padding: 4rem;
+}
+.title {
+	text-align: center;
+}
+.box {
+	justify-content: center;
+	display: flex;
+}

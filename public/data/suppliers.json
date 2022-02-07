@@ -1,0 +1,23 @@
+[
+	{
+		"id": "1",
+		"name": "אוסם",
+		"costumer_number": "2365",
+		"min_order": "200",
+		"logo": "https://upload.wikimedia.org/wikipedia/he/2/22/Osem_Logo.svg"
+	},
+	{
+		"id": "2",
+		"name": "החברה המרכזית למשקאות בעמ",
+		"costumer_number": "452654",
+		"min_order": "300",
+		"logo": "https://upload.wikimedia.org/wikipedia/he/a/aa/Hachevra_Hamerkazit_Clean.svg"
+	},
+	{
+		"id": "3",
+		"name": "מוצרי איכות אמריקאיים בעמ",
+		"costumer_number": "",
+		"min_order": "500",
+		"logo": ""
+	}
+]

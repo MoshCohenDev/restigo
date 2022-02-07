@@ -1,0 +1,9 @@
+.order_summary {
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+}
+.order_quantity {
+	display: flex;
+	flex-direction: column;
+}
